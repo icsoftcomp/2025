@@ -375,7 +375,7 @@ li {
 }
 .navbar .navbar-nav li > .nav-link {
   font-family: "Source Sans Pro", sans-serif;
-  font-size: 16px;
+  font-size: 18px; /*kkp */
  font-weight: 600; /*kkp */
   color: #fff;
   /* kkp text-transform: uppercase;*/
@@ -453,7 +453,7 @@ li {
 }
 .dropdown-menu .dropdown-item {
   color: #333;
-  font-size: 16px;
+  font-size: 18px;  /* kkp */
   transition: 0.3s;
 }
 .dropdown-menu .dropdown-item:focus, .dropdown-menu .dropdown-item:hover, .dropdown-menu .dropdown-item.active, .dropdown-menu .dropdown-item:active {
@@ -569,10 +569,10 @@ button:focus {
 }
 
 .hero-slider {
-  height: 80vh;
+  height: 68vh;
 }
 .hero-slider .slider-item {
-  height: 80vh;
+  height: 68vh;
   display: flex !important;
   justify-content: center;
   align-items: center;
@@ -2620,7 +2620,7 @@ button:focus {
   position: relative;
   display: block;
   line-height: 50px;
-  font-size: 16px;
+  font-size: 18px;
   width: 50px;
   height: 50px;
   color: #777777;
@@ -3106,7 +3106,7 @@ button:focus {
 .main-menu .navigation > li > ul > li > ul > li > a::before {
     color: #ffffff !important;
     right: 15px;
-    font-size: 16px;
+    font-size: 18px;
     display: none !important;
   }
 
